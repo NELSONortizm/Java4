@@ -13,6 +13,12 @@ public class Sumar
 		
 	}
 	
+	public int restar (int a, int b)
+	{
+		return a -b;
+		
+	}
+	
 	public int getA() {
 		return a;
 	}
